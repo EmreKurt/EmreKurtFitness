@@ -10,20 +10,17 @@
 }
 
 .navbar-fixed-top {
-    background-color: #f2f2f2;
+    background-color: #262626;
 
 }
 
-.nav a:hover { color: black !important; }
-
-
-.navbar-header a:hover {color: black !important;}
 .nav .navbar-header, a:focus {color: #4c4c4c !important;}
 
 ul.social-buttons{
-    font-size:25px;
+    font-size:20px;
     text-align: right;
     margin-top: 10px;
+    margin-right: 10px;
 
 }
 i.fa {
@@ -34,7 +31,7 @@ i.fa:hover{
 }
 
 body {
-    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
     background-color: #f2f2f2;
     color: black;
 }
@@ -86,7 +83,3 @@ p, ul{
     width: 100%;
     height: 100%;
 } 
-
- .icon-bar {
-   background-color: black !important;
-}
